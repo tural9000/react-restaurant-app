@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+        "id": 1,
+        "name": "Tural",
+        "table": "1b",
+        "food": "Lahmacu",
+        "price": "5"
+    },
+    {
+        "id": 2,
+        "name": "Emin",
+        "table": "2b",
+        "food": "Doner",
+        "price": "4"
+    },
+    {
+        "id": 3,
+        "name": "Kamil",
+        "table": "3b",
+        "food": "Merci supu",
+        "price": "7"
+    },
+    {
+        "id": 4,
+        "name": "Taleh",
+        "table": "4b",
+        "food": "Paytaxt salati",
+        "price": "8"
+    },
+    {
+        "id": 5,
+        "name": "Ehmed",
+        "table": "5b",
+        "food": "Isgender doner",
+        "price": "10"
+    }
+  ]
+}

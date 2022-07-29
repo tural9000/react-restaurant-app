@@ -1,0 +1,25 @@
+.shopping-cart-table {
+    margin-top: 45px;
+  }
+  
+  .shopping-cart-table .total {
+    font-size: 1.3rem;
+  }
+
+  .finish{
+    text-align: right;
+    margin: 3rem 1.5rem 0 0;
+  }
+
+  .top{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1rem 2.2rem;
+    padding: 0 7rem;
+    
+  }
+  
+  .shopping-cart-table button {
+    margin-right: 5px;
+  }
+ 
